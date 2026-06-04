@@ -12,7 +12,7 @@ Using a movie metadata dataset (mymoviedb), this project demonstrates the end-to
 
 It includes data collection, data cleaning (handling missing values and duplicates), exploratory data analysis (EDA) to find statistical trends, data visualization using Matplotlib and Seaborn, and the creation of a basic predictive Linear Regression model to analyze the relationship between a movie's popularity, vote count, and its average rating.
 
-This project was developed using a Python Notebook on Google Colab. 
+This project was developed using a Python Notebook on Google Colab. I used a Python notebook because that is the format I am most familiar with while doing data processing and any tasks regarding datasets and its outputs.
 
 ### **To run and test the code:**
 
