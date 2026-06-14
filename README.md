@@ -4,7 +4,7 @@
 
 # **Decodelabs Data Science Internship**
 
-### **Description:**
+## **Description:**
 
 ### **Project 1: Advanced EDA & Feature Engineering**
 * **Dataset Used:** `mymoviedb.csv` – A movie metadata dataset containing information such as release dates, popularity, vote counts, and genres. 
@@ -18,7 +18,7 @@
 * **Dataset Used:** `world_population.csv` – A global demographic dataset containing 12+ numeric features like historical populations, density, and growth rates for various countries.
 * **What I Did:** I transitioned to discovering hidden mathematical groupings in unlabeled data. I first standardized the numeric features and applied Principal Component Analysis (PCA) to compress the high-dimensional data into 3 dimensions while retaining core behavioral signals. I then mathematically proved the optimal number of clusters by utilizing diagnostic gatekeepers—specifically the Elbow Method (to minimize variance) and the Silhouette Score (to maximize separation). Finally, I deployed a K-Means algorithm (with K=4) to translate these spatial coordinates into actionable, human-centric "Demographic Personas".
 
-### **To run and test the code:**
+## **To run and test the code:**
 
 **1.** Open Google Colab or your local Jupyter Notebook environment.
 
